@@ -1,0 +1,2 @@
+Assignment from 10/31/2025<br>
+This was a group assignment w/ a partner, and he managed to figure out how to transfer the ghost to the other end of the microbit. As for me, what I tried doing is mirroring the code so the ghost reappears on the microbit. I thought this could work because I thought the ghost fading code looked easy, and mirroring it was a potential way to make the ghost poof back into the screen. What I failed to consider was that it had to transfer to another separate microbit. 
